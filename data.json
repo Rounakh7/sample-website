@@ -21,5 +21,11 @@
         "student": "meow",
         "marks": "100"
     }
+
+    ,
+    {
+        "student": "anitha",
+        "marks": "120"
+    }
  
 ]
