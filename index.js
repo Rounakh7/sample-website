@@ -13,6 +13,8 @@ fetch('./data.json') // Path to your JSON file
 
         html += "<table border='1'><tr><th>Name</th><th>Marks</th></tr>";
 
+        console.log(data.length)
+
 
 
         for (let i = 0; i < data.length; i++) {
